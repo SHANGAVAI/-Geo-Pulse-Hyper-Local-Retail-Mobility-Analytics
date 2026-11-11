@@ -1,2 +1,1 @@
-# -Geo-Pulse-Hyper-Local-Retail-Mobility-Analytics
-Analyzed and suggested Insight for opening a coffee chain across globe using spatial datasets.
+GeoPulse is a hyperlocal retail mobility analysis platform that leverages geospatial data and machine learning to track consumer foot traffic and intent. It provides retailers with real-time, actionable insights into neighborhood-level mobility trends, competitive presence, and shifting demographic patterns. By analyzing these localized movement dynamics, businesses can optimize their physical store locations, target hyper-targeted marketing campaigns, and maximize operational efficiency.
